@@ -43,5 +43,8 @@
     "Profesionale"
   ],
   "author": "Innovrae Technology Company",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-plugin-promise": "^7.2.1"
+  }
 }
